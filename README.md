@@ -41,4 +41,10 @@ This analysis helps identify high-risk customer segments and supports data-drive
 - images/
 
 ## Dashboard Preview
-(Add screenshot here)
+<img width="586" height="334" alt="1-Excecutive Overview" src="https://github.com/user-attachments/assets/da2f262b-c1c1-4a6c-b657-037fbf8bb8b0" />
+
+<img width="587" height="337" alt="2-Customer Demographics" src="https://github.com/user-attachments/assets/4e734532-7a0a-4674-bc74-8f055086b71b" />
+
+<img width="584" height="334" alt="3-Service   Revenue Analysis" src="https://github.com/user-attachments/assets/bd78fafd-1eaf-4992-9787-a5b44646f1de" />
+
+
